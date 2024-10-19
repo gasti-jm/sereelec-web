@@ -1,0 +1,16 @@
+.font-one {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    font-stretch: expanded;
+}
+
+.font-two {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+
+.font-three {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 1.5em;
+    font-weight: lighter;
+}

@@ -1,0 +1,27 @@
+header {
+    position: absolute;
+    width: 100%;
+    background-color: #E8641B;
+}
+
+.menu {
+    list-style: none;
+    text-align: center;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu li a{
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 15px;
+    border-bottom: 3px solid transparent;
+    color: #ffffff;
+}
+
+.menu li a:hover{
+    border-bottom: 3px solid #ffffff;
+}

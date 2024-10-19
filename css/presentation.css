@@ -1,0 +1,40 @@
+.logo-presentation {
+    height: 100vh;
+    display:flex;
+    flex-direction: row;
+    align-content: space-around;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-presentation img {
+    margin-right: 40px;
+}
+
+
+.logo-info h1 {
+    font-size: 2em;
+    margin-bottom: 5px;
+}
+
+.logo-info h2 {
+    font-size: 1.2em;
+    color: #E8641B;
+    font-style: italic;
+}
+
+
+@media screen and (max-width: 600px) {
+    .logo-presentation img {
+        width: 100px;
+        margin-right: 20px;
+    }
+
+    .logo-info h1 {
+        font-size: 0.8em;
+    }
+
+    .logo-info h2 {
+        font-size: 0.8em;
+    }
+}
